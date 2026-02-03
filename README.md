@@ -24,6 +24,7 @@ library(rhds.rpackage)
 ## basic example code
 ```
 
+## Alternative
 Alternatively, you can do this:
 ``` r
 remotes::install_github("fernandam93/rhds.rpackage")
